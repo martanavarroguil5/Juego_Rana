@@ -5,6 +5,8 @@ En este repositorio se encuantra un archivo de Python que sse encarga de calcula
 **EJEMPLOS DE ENTRADA:**
 
 
+Primer ejemplo:
+
 
 5 5 1
 
@@ -20,6 +22,7 @@ AT###
 1 0 3 4
 
 
+Segundo ejemplo:
 
 
 3 3 0
@@ -33,6 +36,7 @@ A__
 (No te pide mas datos)
 
 
+Tercer ejemplo:
 
 
 4 4 1
